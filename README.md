@@ -1,5 +1,4 @@
 Erişim engelli program/sitelere girmeye yarayan program (DPI Bypass)
-Örnek: Discord / Roblox ve diğerleri
 
 Özellikler
 1. Arka planda çalışır.
