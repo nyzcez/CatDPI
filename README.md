@@ -1,5 +1,8 @@
 CatDPI yasaklanan site & programlara girmenize yarayan güçlü DPI Bypass programıdır bu program sayesinde istediğiniz siteye & programa kendi internetinizden erişebilirsiniz.
 
+
+
+
 CatDPI Kurulumu
 1. KCatDPI.exe indirin ve açın.
 2. Kurulumu tamamlayın.
@@ -7,10 +10,16 @@ CatDPI Kurulumu
 4. Windows bildirimi ile "Etkinleştirildi" yazısı alacaksınız.
 5. Artık özgürsünüz Discord & istediğiniz Programa & Siteye girebilirsiniz.
 
+
+
+
 CatDPI Özellikleri
 1. Arka planda çalışır
 2. Otomatik Başlatma
 3. Otomatik Güncelleme
+
+
+
 
 Sıkça Sorulan Sorular (SSS)
 1. CatDPI'yı nerden kapatıcam?
